@@ -1,0 +1,48 @@
+# Blender 4.3.2 MTL File: 'ZR-709A_II_var2_w50.blend'
+# www.blender.org
+
+newmtl master_combined_mat
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./Textures/ZR-709A_II_var2_w50_fromPaint_var3_diffuse.png
+map_Pm ./Textures/ZR-709A_II_var2_w50_fromPaint_var3_metalness.png
+map_Pr ./Textures/ZR-709A_II_var2_w50_fromPaint_var3_roughness.png
+map_Bump -bm 1.000000 ./Textures/ZR-709A_II_var2_w50_fromPaint_var3_normalmap.png
+
+newmtl thruster_FX_mat1
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+Pr 1.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./Textures/thrust_FX_diffuse_emissive.png
+map_Ke ./Textures/thrust_FX_diffuse_emissive.png
+map_d ./Textures/thrust_FX_diffuse_emissive.png
+
+newmtl thruster_FX_mat2
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+Pr 1.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./Textures/thrust_FX_diffuse_emissive_var3.png
+map_Ke ./Textures/thrust_FX_diffuse_emissive_var3.png
+map_d ./Textures/thrust_FX_diffuse_emissive_var3.png
